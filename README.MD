@@ -9,3 +9,5 @@ Pulled from OpenStreetMap on AWS. Two options: data_hillcrest.csv (for San Diego
 ## Implementation
 
 Python Notebook. Used packages: pandas, pyproj, functools, pyplot, geopandas, osmnx, shapely.
+
+![Image of San Diego](hillcrest.png)
